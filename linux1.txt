@@ -32,5 +32,31 @@ pres ctrl d to come out
 
 > rm -R dir1    #will remove the directory dir1 recursively 
 
+########################################################
+
+
+> mkdir dir1
+
+> touch file1 
+
+> cp file1 dir1
+
+> ls
+
+> cd dir1
+
+> ls
+
+(you will see file1)
+
+> cd ..
+
+> ls dir1/  (list of all the files present in dir1) 
+
+> rm -rf dir1/file1
+
+> ls dir1/
+
+> mv file1 dir1/
 
 
