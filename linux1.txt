@@ -1,0 +1,36 @@
+> mkdir 2023aug
+> cd 2023aug
+> cat >mynewfile
+hello world
+pres ctrl d to come out
+> rm -i mynewfile
+    yes
+    
+>  cat >mynewfile
+    hello
+    press ctrl d to come out
+
+> ls
+
+> rm -rf mynewfile
+
+> ls
+
+> mkdir -p dir1/dir2/dir3/dir4 
+
+> cd dir1
+
+> cd dir2
+
+> cd dir3
+
+> touch file1 file2
+
+> cd ../..  #move two steps behind 
+
+> pwd
+
+> rm -R dir1    #will remove the directory dir1 recursively 
+
+
+
